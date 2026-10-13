@@ -16,4 +16,5 @@ console.log(integerAge2) //NaN
 //"33abc" => NaN
 //null => 0
 //boolean 0/1 (depends)
-//
+//"" => false (in boolean)
+//"Naman" => true
